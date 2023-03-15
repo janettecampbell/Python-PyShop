@@ -1,0 +1,4 @@
+#.env
+py -3 -m venv .env
+#.venv
+py -3 -m venv .venv
